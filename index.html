@@ -327,14 +327,14 @@ d3.csv('citysample1E.csv', function(d){
                     "<tr><td>Pop (30km):</td><td>"+d.Pop+"</td></tr></tbody></table>";
         })
 
-        .on('mousedown', function(d){
+        .on('mouseenter', function(d){
           d3.select(this).attr('src', options[service].source_dir_bw + d.Name + '_'+d.Lat+'_'+d.Long + options[service].extn)
         })
 
-        .on('mouseup', function(d){
+        .on('mouseleave', function(d){
           d3.select(this).attr('src', options[service].source_dir + d.Name + '_'+d.Lat+'_'+d.Long + options[service].extn)
-        })           
-
+        })  
+     
 });
 
 $('body').tooltip({container: 'body', selector:'img', html:true});
