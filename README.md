@@ -15,5 +15,8 @@ http://en.szhkbiennale.org/Exhibits/contentPage.aspx?id=10000722
 
 For more information:
 
-Madeeha Merchant, m.merchant@columbia.edu, Associate Research Scholar, Center for Spatial Research, 
+Madeeha Merchant
+<br>m.merchant@columbia.edu</br> 
+<br>Associate Research Scholar </br>
+<br>Center for Spatial Research </br>
 <br>Columbia University</br>
