@@ -1,5 +1,5 @@
 # NUCLEAR
-Conflict Urbanism: 
+<h3>Conflict Urbanism:</h3>
 Global Grids : Populations at Risk (Phase I)
 
 Project Description:
@@ -16,7 +16,7 @@ http://en.szhkbiennale.org/Exhibits/contentPage.aspx?id=10000722
 For more information:
 
 Madeeha Merchant
-<br>m.merchant@columbia.edu</br> 
+<n>m.merchant@columbia.edu</n> 
 <br>Associate Research Scholar </br>
 <br>Center for Spatial Research </br>
 <br>Columbia University</br>
