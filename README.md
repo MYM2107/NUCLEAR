@@ -1,6 +1,6 @@
 # NUCLEAR
 <h3>Conflict Urbanism:</h3>
-Global Grids : Populations at Risk (Phase I)
+<h5>Global Grids : Populations at Risk (Phase I) </h5>
 
 Project Description:
 Global Grids: Populations at Risk makes visible civilian Nuclear Power Plants in relation to territories of risk. 296 Nuclear Plants have been extracted from high-resolution satellite imagery from Digital Globe, through Mapbox, in Nov 2015, and set against a dataset named the Gridded Population of the World.
@@ -14,9 +14,8 @@ The project is currectly on display at the Shenzen Bi-City Biennale of Urbanism 
 http://en.szhkbiennale.org/Exhibits/contentPage.aspx?id=10000722
 
 For more information:
-
-Madeeha Merchant
+<n>Madeeha Merchant </n)
 <n>m.merchant@columbia.edu</n> 
-<br>Associate Research Scholar </br>
-<br>Center for Spatial Research </br>
-<br>Columbia University</br>
+<n>Associate Research Scholar </n>
+<n>Center for Spatial Research </n>
+<n>Columbia University</n>
